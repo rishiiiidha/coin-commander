@@ -22,8 +22,11 @@ npm install -g coincommander
    <li>Check cryptocurrency prices using the CoinMarketCap API.</li>
    <li>Check specific coins and customize the cryptocurrency coins to check by providing a list of coin symbols as options.</li>
  </ul>
+ <h1>Commands</h1>
 
-<img alt="command-1" src="https://github.com/rishiiiidha/rishiiiidha/blob/main/help/command-1.svg" width="100">
+   <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-1.png">
+
+
 
 
 
