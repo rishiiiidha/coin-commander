@@ -23,7 +23,7 @@ npm install -g coincommander
    <li>Check specific coins and customize the cryptocurrency coins to check by providing a list of coin symbols as options.</li>
  </ul>
 
-
+<img alt="command-1" src="https://github.com/rishiiiidha/rishiiiidha/blob/main/help/command-1.svg" width="100">
 
 
 
