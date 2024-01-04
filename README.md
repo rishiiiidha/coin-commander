@@ -4,10 +4,10 @@ CoinCommander is a command-line tool designed for cryptocurrency enthusiasts to 
 
 # Installation
 
-<h4>To install CoinCommander, follow these steps:</h4>
+<h4>To install CoinCommander dependencies, follow these steps:</h4>
 
 ```bash
-npm install -g coincommander
+npm install 
 ```
 
 # Features
@@ -23,7 +23,7 @@ npm install -g coincommander
    <li>Check specific coins and customize the cryptocurrency coins to check by providing a list of coin symbols as options.</li>
  </ul>
  <h1>Commands</h1>
-   <p>I have meticulously documented a sequence of step-by-step procedures, each accompanied by illustrative images, enabling users to seamlessly navigate and explore the features of the Cryptocurrency Prices Command Line Interface. These visual aids serve as a comprehensive guide, facilitating an efficient understanding of the command-line functionalities for accessing and utilizing real-time cryptocurrency data.</p>
+   <h6>I have meticulously documented a sequence of step-by-step procedures, each accompanied by illustrative images, enabling users to seamlessly navigate and explore the features of the Cryptocurrency Prices Command Line Interface. These visual aids serve as a comprehensive guide, facilitating an efficient understanding of the command-line functionalities for accessing and utilizing real-time cryptocurrency data.</h6>
 
    <img width=500px  height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-1.png">
    <img width=50px  height=50px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/arrow.png">
