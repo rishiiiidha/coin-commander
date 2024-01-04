@@ -24,16 +24,16 @@ npm install -g coincommander
  </ul>
  <h1>Commands</h1>
 
-   <img width=500px  height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-1.png">
-   <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-2.png">
+   <img width=650px  height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-1.png">
+   <img width=650px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-2.png">
    <img width=650px height=200px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-3.png">
    <img width=650px height=200px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-4.png">
    <img width=650px height=250px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-5.png">
    <img width=650px height=200px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-6.png">
-   <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-7.png">
-   <img width=650px height=500px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-8.png">
+   <img width=650px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-7.png">
+   <img width=650px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-8.png">
    <img width=650px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-9.png">
-   <img width=600px height=350px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-10.png">
+   <img width=650px height=350px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-10.png">
    
 
 
