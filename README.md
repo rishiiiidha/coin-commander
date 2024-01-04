@@ -24,8 +24,8 @@ npm install -g coincommander
  </ul>
  <h1>Commands</h1>
 
-   <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-1.png">
-   <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-2.png">
+   <img width=650 height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-1.png">
+   <img width=650 height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-2.png">
    <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-3.png">
    <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-4.png">
    <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-5.png">
