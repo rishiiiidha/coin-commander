@@ -2,6 +2,7 @@
 
 CoinCommander is a command-line tool designed for cryptocurrency enthusiasts to perform various operations related to cryptocurrency information retrieval using the CoinMarketCap API. The application provides commands for managing API keys and checking cryptocurrency prices.
 
+
 # Getting Started
 <h4>To quickly experience the capabilities of this CLI, follow these steps:</h4>
 <ul><li>
