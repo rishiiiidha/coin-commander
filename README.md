@@ -54,7 +54,7 @@ npm install
     <img width=50px  height=50px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/arrow.png">
    <img width=500px height=370px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-10.png">
    
-
+<h3>Happy exploring the world of cryptocurrency prices with our command-line interface 🚀</h3>
 
 
 
