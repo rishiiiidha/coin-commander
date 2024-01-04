@@ -4,13 +4,19 @@ CoinCommander is a command-line tool designed for cryptocurrency enthusiasts to 
 
 
 # Getting Started
-<h4>To quickly experience the capabilities of this CLI, follow these steps:</h4>
-<ul><li>
- Clone the repository to your local machine.
-</li>
- <li>Navigate to the project directory in your terminal.</li>
+<ul>
+<li> Click the "Fork" button at the top-right corner of the repository page to create your own copy.</li>
+<li> Clone your forked repository to your local machine. </li>
+<li> Replace `your-username` with your github username. </li>
 </ul>
-# Installation
+
+   ```bash
+
+   git clone https://github.com/your-username/coin-commander.git
+
+ ```
+
+#  Installation
 
 <h4>To install CoinCommander dependencies, follow these steps:</h4>
 
