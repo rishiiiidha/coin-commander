@@ -16,14 +16,13 @@ const check = {
       dataArray.forEach((dataObject) => {
         if (count === 10) return;
         count++;
-        console.log(dataArray[count]);
         if (dataObject.symbol == cmd["coin"]) {
-          const price = colors.bold(`Price: ${dataObject.quote.USD.price}`.padEnd(30));
+          const price = colors.bold(`Price: $${dataObject.quote.USD.price}`.padEnd(30));
           const rank = `Rank: ${dataObject.cmc_rank}`;
           console.log(`Coin : ${dataObject.symbol.padEnd(5).yellow} | ${dataObject.name.padEnd(20).magenta} | ${price} | ${rank}`);
         }
         if (cmd["coin"]==''){
-          const price = colors.bold(`Price: ${dataObject.quote.USD.price}`.padEnd(30));
+          const price = colors.bold(`Price: $${dataObject.quote.USD.price}`.padEnd(30));
           const rank = `Rank: ${dataObject.cmc_rank}`;
           console.log(`Coin : ${dataObject.symbol.padEnd(5).yellow} | ${dataObject.name.padEnd(20).magenta} | ${price} | ${rank}`);
         }
