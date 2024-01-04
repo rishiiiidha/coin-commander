@@ -41,9 +41,9 @@ npm install
     <img width=50px  height=50px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/arrow.png">
    <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-8.png">
     <img width=50px  height=50px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/arrow.png">
-   <img width=500px height=300px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-9.png">
+   <img width=500px height=220px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-9.png">
     <img width=50px  height=50px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/arrow.png">
-   <img width=500px height=350px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-10.png">
+   <img width=500px height=370px src="https://raw.githubusercontent.com/rishiiiidha/coin-commander/main/help/command-10.png">
    
 
 
