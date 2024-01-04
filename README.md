@@ -10,8 +10,6 @@ CoinCommander is a command-line tool designed for cryptocurrency enthusiasts to 
 </li>
  <li>Navigate to the project directory in your terminal.</li>
 </ul>
-
-
 # Installation
 
 <h4>To install CoinCommander dependencies, follow these steps:</h4>
