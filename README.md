@@ -1,16 +1,16 @@
-# CoinCommander
+# Coin Commander
 
-CoinCommander is a command-line tool designed for cryptocurrency enthusiasts to perform various operations related to cryptocurrency information retrieval using the CoinMarketCap API. The application provides commands for managing API keys and checking cryptocurrency prices.
+Coin Commander is a command-line tool designed for cryptocurrency enthusiasts to perform various operations related to cryptocurrency information retrieval using the CoinMarketCap API. The application provides commands for managing API keys and checking cryptocurrency prices.
 
 #  Installation
 
 
-<h6>To install CoinCommander dependencies within the directory :</h6>
+<h6>To install Coin Commander dependencies within the directory :</h6>
 
 ```bash
 npm install 
 ```
-<h6>To install CoinCommander dependencies , Node.js package globally on your system.</h6>
+<h6>To install Coin Commander dependencies , Node.js package globally on your system.</h6>
 
 ```bash
 npm install -g
