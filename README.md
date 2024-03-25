@@ -2,19 +2,6 @@
 
 CoinCommander is a command-line tool designed for cryptocurrency enthusiasts to perform various operations related to cryptocurrency information retrieval using the CoinMarketCap API. The application provides commands for managing API keys and checking cryptocurrency prices.
 
-
-# Getting Started
-- Click the "Fork" button at the top-right corner of the repository page to create your own copy.
-- Clone your forked repository to your local machine.
-- Replace `your-username` with your GitHub username.
-
-
- ```bash
-
-   git clone https://github.com/your-username/coin-commander.git
-
- ```
-
 #  Installation
 
 
